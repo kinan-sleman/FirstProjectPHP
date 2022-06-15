@@ -1,0 +1,10 @@
+@media only screen and (max-width:826px){
+    #kinan{
+        font-size:25px !important;
+    }
+}
+@media only screen and (max-width:675px){
+    #kinan{
+        font-size:17px !important;
+    }
+}
